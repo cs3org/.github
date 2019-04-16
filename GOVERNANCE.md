@@ -1,7 +1,7 @@
 Governance
 ==========
 
-Repositories under the [CS3ORG GitHub organization](https://github.com/cs3org/) are governed by CERN for the benefit of the community.
+Repositories under the [cs3org GitHub organization](https://github.com/cs3org/) are governed by CERN for the benefit of the community.
 CERN strives to make the projects under this organization collaborative, open and transparent to
 ensure that everyone can contribute and have their say on the directions
 of the projects.
@@ -16,21 +16,18 @@ These following sections define the different roles and responsibilities
 in the project, define how decisions are taken and how people are
 appointed to different roles. Overall, we expect every person who
 participates in the project to adhere to our
-[code-of-conduct](https://github.com/cs3org/.github/blob/2f6919c4d70de013b9c1bce0b8526fcec29e860a/CODE_OF_CONDUCT.md)
+[code-of-conduct](https://github.com/cs3org/.github/blob/2f6919c4d70de013b9c1bce0b8526fcec29e860a/CODE_OF_CONDUCT.md).
 
-```
-The currrent governance model puts in words how the collaboration
+*The currrent governance model puts in words how the collaboration
 currently works in practice today and sets a basic framework for how we
 collaborate and take decisions in the project.
-
 If the nature of the community or contributors changes this governance
-model may be reviewed and changed if necessary.
-```
+model may be reviewed and changed if necessary.*
 
 Roles and responsibilities
 --------------------------
 
-The *product manager*, *coordinators*, *architects* and *maintainers*
+The *product managers*, *coordinators*, *architects* and *maintainers*
 (as defined below) make up the leadership of all projects under the CS3 Organization.
 The leaders are **service people** who:
 
@@ -53,11 +50,11 @@ The leaders are **service people** who:
     people). Architects are responsible for the overall
     technical architecture as well as managing and training maintainers
     on their respective repositories.
--   **Coordinators**: Representatives of CS3-based services that
+-   **Coordinators**: Representatives of CS3 community that
     would like to coordinate their development efforts with
     other services and provide input on the product road map.
--   **Product manager**: Overall responsible for the CS3APIS and REVA\'s vision,
-    strategy and day-to-day management. Responsible for managing and
+-   **Product managers**: Overall responsibles for the vision,
+    strategy and day-to-day management of projects under the organization. Responsible for managing and
     training architects and coordinators.
 
 Commit access on repositories are given to contributors, maintainers and
@@ -69,13 +66,13 @@ Decision making
 ---------------
 
 We strive to take decisions openly and by consensus, though ultimately
-CERN represented by the product manager has the final say on all
-decisions in the project. In particular this means that there is no
-formal voting procedure for repositories under the CS3 Organization.
+CERN represented by the product managers has the final say on all
+decisions in the projects. In particular this means that there is no
+formal voting procedure for projects under the CS3 Organization.
 
 **Leaders drive decision making**
 
-The CS3 Organization product manager, architects, coordinators and maintainers as
+The CS3 Organization product managers, architects, coordinators and maintainers as
 the leaders of the project are responsible for driving decision making
 in their respective domains.
 
@@ -112,9 +109,9 @@ escalate the product manager\'s decision to their hierarchy at CERN.
 Appointments
 ------------
 
-The product manager is appointed by CERN. Architects,
+The product managers are appointed by CERN. Architects,
 coordinators and maintainers are appointed by the product
-manager in collaboration with existing architects and coordinators.
+managers in collaboration with existing architects and coordinators.
 
 Maintainers are appointed by the architects (e.g. a new REVA module)
 or coordinators (e.g. a new special interest group).
@@ -137,7 +134,7 @@ The product manager must give a warning to the member to allow them to
 correct their behavior except in severe cases. Revoking roles should be
 a last measure, and only serve the purpose to ensure that projects have a
 healthy community and collaboration based on our
-[code-of-conduct](https://github.com/cs3org/.github/blob/2f6919c4d70de013b9c1bce0b8526fcec29e860a/CODE_OF_CONDUCT.md)
+[code-of-conduct](https://github.com/cs3org/.github/blob/2f6919c4d70de013b9c1bce0b8526fcec29e860a/CODE_OF_CONDUCT.md).
 
 Working/Interest groups
 -----------------------
