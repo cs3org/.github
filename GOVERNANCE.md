@@ -1,7 +1,7 @@
 Governance
 ==========
 
-Repositories under the [cs3org GitHub organization](https://github.com/cs3org/) are governed by CERN for the benefit of the community.
+Repositories under the [CS3 GitHub Organization](https://github.com/cs3org/) are governed by CERN for the benefit of the community.
 CERN strives to make the projects under this organization collaborative, open and transparent to
 ensure that everyone can contribute and have their say on the directions
 of the projects.
@@ -27,7 +27,7 @@ model may be reviewed and changed if necessary.*
 Roles and responsibilities
 --------------------------
 
-The *product managers*, *coordinators*, *architects* and *maintainers*
+The *product manager*, *coordinators*, *architects* and *maintainers*
 (as defined below) make up the leadership of all projects under the CS3 Organization.
 The leaders are **service people** who:
 
@@ -53,7 +53,7 @@ The leaders are **service people** who:
 -   **Coordinators**: Representatives of CS3 community that
     would like to coordinate their development efforts with
     other services and provide input on the product road map.
--   **Product managers**: Overall responsibles for the vision,
+-   **Product manager**: Overall responsible for the vision,
     strategy and day-to-day management of projects under the organization. Responsible for managing and
     training architects and coordinators.
 
@@ -66,13 +66,13 @@ Decision making
 ---------------
 
 We strive to take decisions openly and by consensus, though ultimately
-CERN represented by the product managers has the final say on all
+CERN represented by the product manager has the final say on all
 decisions in the projects. In particular this means that there is no
 formal voting procedure for projects under the CS3 Organization.
 
 **Leaders drive decision making**
 
-The CS3 Organization product managers, architects, coordinators and maintainers as
+The CS3 Organization product manager, architects, coordinators and maintainers as
 the leaders of the project are responsible for driving decision making
 in their respective domains.
 
@@ -109,9 +109,9 @@ escalate the product manager\'s decision to their hierarchy at CERN.
 Appointments
 ------------
 
-The product managers are appointed by CERN. Architects,
+The product manager is appointed by CERN. Architects,
 coordinators and maintainers are appointed by the product
-managers in collaboration with existing architects and coordinators.
+manager in collaboration with existing architects and coordinators.
 
 Maintainers are appointed by the architects (e.g. a new REVA module)
 or coordinators (e.g. a new special interest group).
