@@ -52,7 +52,7 @@ Attribution is not tracked via copyright, but via the ``AUTHORS`` file.
 
 Explicit agreement
 ------------------
-**Contribtions only via GitHub**
+**Contributions only via GitHub**
 
 All contributions **MUST** be opened via pull requests on GitHub.
 
