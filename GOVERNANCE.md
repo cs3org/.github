@@ -33,7 +33,7 @@ The leaders are **service people** who:
 
 -   take an active role in driving the project forward,
 -   help newcomers as well as long-time contributors have great
-    experience contributing to REVA,
+    experience contributing to projects under CS3,
 -   help train members to progressive take larger responsibility in the
     project,
 -   are role models for the remaining community.
@@ -82,9 +82,9 @@ Driving decision making means:
     matches the level of importance and impact of a decision,
 -   striving for reaching consensus on a decision and ensuring relevant
     other members are aware and included on the decision,
--   ensuring decisions are in alignment with the overall REVA vision,
+-   ensuring decisions are in alignment with the overall CS3 vision,
     strategy, architecture and standards,
--   coordinating the decision with the REVA leadership (product
+-   coordinating the decision with the leadership of the CS3 projects (product
     manager, architects and coordinators),
 -   taking the decision.
 
@@ -113,7 +113,7 @@ The product manager is appointed by CERN. Architects,
 coordinators and maintainers are appointed by the product
 manager in collaboration with existing architects and coordinators.
 
-Maintainers are appointed by the architects (e.g. a new REVA module)
+Maintainers are appointed by the architects (e.g. for a new CS3 project)
 or coordinators (e.g. a new special interest group).
 
 In general, appointments are made in an informal way, and usually anyone
